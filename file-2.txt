@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello here i am creting file-2
 and i am entering data into it
+=======
+hello here i have created file-2.txt
+and i am entering data into it
+>>>>>>> feature_branch
