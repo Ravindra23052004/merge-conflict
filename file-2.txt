@@ -1,0 +1,2 @@
+hello here i have created file-2.txt
+and i am entering data into it
